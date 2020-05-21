@@ -5,7 +5,6 @@ import com.udacity.sandwichclub.model.Sandwich;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
